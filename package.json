@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Stephen from TheBestJS.com solves the NodeJS challenges from Node School!",
+  "author": "Stephen Mayeux",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.5",
+    "bl": "^1.2.0"
+  }
+}
